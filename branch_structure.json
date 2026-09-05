@@ -1,0 +1,21 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "feat/beneficiary-whitelist-guard",
+    "feature/cleanup-upgrade-contract",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "feat/beneficiary-whitelist-guard": "master",
+    "feature/cleanup-upgrade-contract": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "feat/beneficiary-whitelist-guard",
+    "feature/cleanup-upgrade-contract",
+    "origin"
+  ]
+}
